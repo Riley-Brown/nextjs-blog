@@ -14,3 +14,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.blog-text-center {
+  text-align: center;
+}
