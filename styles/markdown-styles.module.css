@@ -1,0 +1,24 @@
+.markdown {
+  @apply text-lg leading-relaxed;
+}
+
+.markdown p,
+.markdown ul,
+.markdown ol,
+.markdown blockquote {
+  font-size: 20px;
+}
+
+.markdown h2 {
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  @apply text-3xl mt-12 mb-4 leading-snug;
+}
+
+.markdown h3 {
+  font-size: 24px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  @apply text-2xl mt-8 mb-4 leading-snug;
+}
