@@ -1,0 +1,16 @@
+.posts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: space-between;
+}
+
+.post {
+  width: 31%;
+  margin-bottom: 40px;
+}
+
+.post img {
+  border-radius: 10px;
+  box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 1px 6px rgb(0 0 0 / 23%);
+}
