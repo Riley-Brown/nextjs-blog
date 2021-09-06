@@ -14,3 +14,15 @@
   border-radius: 10px;
   box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 1px 6px rgb(0 0 0 / 23%);
 }
+
+@media (max-width: 992px) {
+  .post {
+    width: 45%;
+  }
+}
+
+@media (max-width: 680px) {
+  .post {
+    width: 100%;
+  }
+}
