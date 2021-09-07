@@ -2,7 +2,7 @@
 slug: '/labs-week-one-retrospective'
 date: '2019-03-22'
 title: 'Labs Week One Retrospective'
-coverImage: '/assets/blog/labs-week-one-retrospective.jpg'
+coverImage: '/assets/blog/labs-week-one-retrospective-optimized.jpg'
 thumbnail_img: 'static/7143a49f2107ad0eb01aaca79a9fff12/3b215/labs-week-one-retrospective.jpg'
 author: 'Riley Brown'
 ---
@@ -14,7 +14,7 @@ During the course of this sprint, my team and I planned out the features we want
 I worked on the front-end and back-end creating key functionality for the Metadata component that parses URL metadata to return a title, image and description from that metadata. I used styled components to style my component on the front-end as well.
 
 _This is the functionality the Metadata component provides:_
-![Post Man](postman.png)
+![Post Man](/assets/blog/postman.png)
 
 First I had to create a route on the backend to send data to. I used the NPM package “url-metadata” to parse a link sent to the route and return metadata from that URL.
 

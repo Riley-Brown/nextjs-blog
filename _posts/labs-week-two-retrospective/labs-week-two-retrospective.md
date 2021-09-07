@@ -2,7 +2,7 @@
 slug: '/labs-week-two-retrospective'
 date: '2019-03-29'
 title: 'Labs Week Two Retrospective'
-coverImage: '/assets/blog/labs-week-two-retrospective.jpg'
+coverImage: '/assets/blog/labs-week-two-retrospective-optimized.jpg'
 thumbnail_img: '/static/aef8928c77326e97142fc6da51acb672/3b215/labs-week-two-retrospective.jpg'
 author: 'Riley Brown'
 ---

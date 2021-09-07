@@ -11,7 +11,7 @@ I recently refactored some old code for my portfolio site and was in disbelief h
 
 It was 187 lines of repeating hard-coded jquery logic like the following:
 
-![Bad code](bad-old-jquery-code.png)
+![Bad code](/assets/blog/bad-old-jquery-code.png)
 
 I refactored all of that ugly code to just ~30 lines of beautiful es6 vanilla JS:
 
